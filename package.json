@@ -1,0 +1,16 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "FCC request header parser project",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ashley Tan",
+  "license": "ISC"
+}
